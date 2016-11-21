@@ -1,0 +1,28 @@
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\bin\x86\Debug\Content\plane.xnb
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\bin\x86\Debug\1942.exe
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\bin\x86\Debug\1942.pdb
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\obj\x86\Debug\1942.csprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\obj\x86\Debug\1942.exe
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\obj\x86\Debug\1942.pdb
+C:\Users\cert2it\Desktop\1942\1942\1942\1942\bin\x86\Debug\Content\bullet.xnb
+F:\1942\1942\1942\1942\bin\x86\Debug\Content\plane.xnb
+F:\1942\1942\1942\1942\bin\x86\Debug\Content\bullet.xnb
+F:\1942\1942\1942\1942\bin\x86\Debug\1942.exe
+F:\1942\1942\1942\1942\bin\x86\Debug\1942.pdb
+F:\1942\1942\1942\1942\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\1942\1942\1942\1942\obj\x86\Debug\1942.exe
+F:\1942\1942\1942\1942\obj\x86\Debug\1942.pdb
+F:\1942\1942\1942\1942\bin\x86\Debug\Content\ball.xnb
+F:\1942\1942\1942\1942\bin\x86\Debug\Content\font.xnb
+F:\1942\1942\1942\1942\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\bin\x86\Debug\Content\plane.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\bin\x86\Debug\Content\bullet.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\bin\x86\Debug\Content\ball.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\bin\x86\Debug\Content\font.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\bin\x86\Debug\1942.exe
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\bin\x86\Debug\1942.pdb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\obj\x86\Debug\1942.csprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\obj\x86\Debug\1942.exe
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\1942\1942\1942\obj\x86\Debug\1942.pdb
